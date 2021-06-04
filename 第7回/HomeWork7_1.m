@@ -23,7 +23,7 @@ for i=1:3
 end
 
 %確率にする
-C(C<0)=0;›
+C(C<0)=0;
 for i=1:N
     sum_value=sum(C(i,:));
     for j=1:3
